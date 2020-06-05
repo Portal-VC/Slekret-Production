@@ -9,3 +9,8 @@ __pycache__/
 # OS files
 .DS_Store
 thumbs.db
+misago/static/**
+misago/media/**
+*.env
+vhost.d
+*.log
