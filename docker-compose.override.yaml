@@ -1,0 +1,4 @@
+version: '3.0'
+services:
+  nginx-lets-encrypt:
+    entrypoint: ["echo", "Service foo disabled"]
